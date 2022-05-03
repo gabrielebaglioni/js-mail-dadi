@@ -13,3 +13,7 @@ if (mail.includes(mailutente)){
    element.classList.add("sing-in");
    console.log("bentornato");
 }
+else {
+   console.log("Fai il Sing-Up");
+}
+
